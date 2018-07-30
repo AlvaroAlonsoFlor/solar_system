@@ -1,5 +1,5 @@
 def spin
 
-  puts "Spinning faster"
-  
+  puts "Spinning"
+
 end
